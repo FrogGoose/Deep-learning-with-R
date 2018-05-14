@@ -270,3 +270,5 @@ confusionMatrix(predicts,mnist$test$y)
     ## 
     ## attr(,"class")
     ## [1] "confusionMatrix"
+
+We can see that the overall accuracy of classification is 98.00%. 
