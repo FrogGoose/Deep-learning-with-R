@@ -3,7 +3,7 @@ Deep Learning
 MA
 May 7, 2018
 
-This project attempts to clasify handwritten digits from the MNIST dataset.
+This project attempts to clasify handwritten digits from the MNIST dataset by CNN.
 
 Load the package *keras*.
 
